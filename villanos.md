@@ -2,4 +2,4 @@
 
 * La Momia
 * Malefica
-* Bandido Rural
+* Capitán América
