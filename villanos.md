@@ -2,3 +2,4 @@
 
 * La Momia
 * Malefica
+* Bandido Rural
